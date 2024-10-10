@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.1+1
   flutter_plugin_android_lifecycle: ^2.0.0-nullsafety
+  integration_test:
+    sdk: flutter
 
 dev_dependencies:
   flutter_test:
